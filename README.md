@@ -9,6 +9,10 @@
 En cada partida se determinará un __ganador__ y un __perdedor__, o un __empate entre ambos__ según cada caso. El jugador obtendrá 1 punto por cada partida ganada, 1/2 punto si empata y 0 puntos si pierde. Esos valores se verán reflejados en el ranking de jugadores de la página principal. 
 
 ------------------------------------
+### :rocket:	 Donde pueden probarlo: ####
+
+https://salvo-game-lucas.herokuapp.com/web/games.html
+
 
 ### :wrench: Tecnologias Utilizadas: ####
 
@@ -33,4 +37,7 @@ En cada partida se determinará un __ganador__ y un __perdedor__, o un __empate 
 * Descargar e instalar __Maven__
   
 * Descargar e instalar IDE de preferencia. Se recomienda __IntelliJ IDEA__
+
+
+
     
