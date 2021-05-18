@@ -22,7 +22,7 @@ https://salvo-game-lucas.herokuapp.com/web/games.html
 
 * Utilización de __Maven 3.6.3__
 
-* Base de Datos H2, SQL databas, memanejo de __Java Persistence API (JPA)__
+* Base de Datos H2, SQL databas, manejo de __Java Persistence API (JPA)__
 
 * FrontEnd desarrollado en __HTML5__, __CSS3__ y __Javascript__
 
